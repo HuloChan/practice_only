@@ -104,7 +104,8 @@ i.fa,
 
 .header a.username {
     background: center/150px url(https://image.myanimelist.net/ui/uDqA5Hj63XC4_7-Zz2-uStdYe5Qg1UiBTLljp3L1u-Q);
-    font: 800 20px color: rgba(255, 255, 255, .7);
+    font: 800 20px color;
+    color: (255, 255, 255, .7);
     letter-spacing: 2px;
     padding: 5px 0;
 }
