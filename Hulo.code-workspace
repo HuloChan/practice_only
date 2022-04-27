@@ -7,6 +7,9 @@
 		{
 			"name": "practice_only",
 			"path": "."
+		},
+		{
+			"path": "..\\Cpp-Notes"
 		}
 	],
 	"settings": {}
